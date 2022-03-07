@@ -8,5 +8,7 @@ public class GitTestMain {
 		System.out.println("hotfix Branch3");
 		System.out.println("hotfix Branch");
 		System.out.println("hotfix Branch2");
+		
+		System.out.println("Master Branch2");
 	}
 }
